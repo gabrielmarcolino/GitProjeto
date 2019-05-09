@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916827948986",
+    "firebase_url": "https://tabacaria-278e1.firebaseio.com",
+    "project_id": "tabacaria-278e1",
+    "storage_bucket": "tabacaria-278e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916827948986:android:0a31c6047afb719d",
+        "android_client_info": {
+          "package_name": "com.example.gabrielamarcolino.tabacaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916827948986-4iah0bnfs9kg98psh1rr7agutlfvgbfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabrielamarcolino.tabacaria",
+            "certificate_hash": "b1e74405cee75dc6c6059b158f4352de20bd5e04"
+          }
+        },
+        {
+          "client_id": "916827948986-0642m22iitjski7a60d4jl1k6r3n2its.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ls4YhbYiSaMjGLMkqpKqoz7bkktI_rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916827948986-0642m22iitjski7a60d4jl1k6r3n2its.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

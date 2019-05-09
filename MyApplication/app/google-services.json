@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678513398812",
+    "firebase_url": "https://smoke-8cc33.firebaseio.com",
+    "project_id": "smoke-8cc33",
+    "storage_bucket": "smoke-8cc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678513398812:android:8d2cf98ae9783801",
+        "android_client_info": {
+          "package_name": "com.example.gabrielamarcolino.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678513398812-113so73on28l0gj2vnvqoared3hjsggv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabrielamarcolino.myapplication",
+            "certificate_hash": "b1e74405cee75dc6c6059b158f4352de20bd5e04"
+          }
+        },
+        {
+          "client_id": "678513398812-3e70p4k3lv3jvedv746pmcht7efkvql1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XNEUYNgPGVdqhnb80NWS2ixRHn_9Plg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678513398812-3e70p4k3lv3jvedv746pmcht7efkvql1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
